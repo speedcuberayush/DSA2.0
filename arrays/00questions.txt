@@ -1,17 +1,17 @@
 done 1. findLargest 
 done 2. secondLargest
 done 3. array is sorted
-4. remove duplicates from sorted array
+=4. remove duplicates from sorted array
 
 
-5. moves array by 1 place 
-6. moves array by d places
+done 5. moves array by 1 place 
+done 6. moves array by d places
 7. move zeros to end
-8. linear search
+done 8. linear search
 9. union of two sorted array
 10. intersection of two sorted arrays
 
 
 11. missing number
 12. maximum consecutive ones
-13. find the number appears only once and other twice.
+=13. find the number appears only once and other twice.
