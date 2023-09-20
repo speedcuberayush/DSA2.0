@@ -1,17 +1,25 @@
-done 1. findLargest 
-done 2. secondLargest
-done 3. array is sorted
-=4. remove duplicates from sorted array
+1. findLargest 
+2. secondLargest
+3. array is sorted
+4. remove duplicates from sorted array
 
 
-done 5. moves array by 1 place 
-done 6. moves array by d places
+5. moves array by 1 place 
+6. moves array by d places
 7. move zeros to end
-done 8. linear search
+8. linear search
 9. union of two sorted array
 10. intersection of two sorted arrays
 
 
 11. missing number
 12. maximum consecutive ones
-=13. find the number appears only once and other twice.
+13. find the number appears only once and other twice.
+
+
+sub sequence and subarray
+14.longest subarray with sum k
+15. two sum
+16. sort an array of 0s,1s and 2s.
+17. majority times
+18. kadne's algo maximum sum
